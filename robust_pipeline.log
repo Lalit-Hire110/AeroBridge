@@ -1,0 +1,56 @@
+2025-08-05 10:32:43,384 - INFO - Robust AEP Pipeline initialized
+2025-08-05 10:32:43,385 - INFO - ============================================================
+2025-08-05 10:32:43,385 - INFO - Starting Robust AEP 3.0 Pipeline
+2025-08-05 10:32:43,386 - INFO - ============================================================
+2025-08-05 10:32:43,386 - INFO - Processing state: Delhi
+2025-08-05 10:32:43,572 - INFO - Validation Delhi: 5/5 valid
+2025-08-05 10:32:43,574 - INFO - Report saved to data\quality_reports\pipeline_report_20250805_103243.json
+2025-08-05 10:33:21,010 - INFO - Robust AEP Pipeline initialized
+2025-08-05 10:33:21,011 - INFO - ============================================================
+2025-08-05 10:33:21,011 - INFO - Starting Robust AEP 3.0 Pipeline
+2025-08-05 10:33:21,011 - INFO - ============================================================
+2025-08-05 10:33:21,012 - INFO - Processing state: Delhi
+2025-08-05 10:33:21,164 - INFO - Validation Delhi: 5/5 valid
+2025-08-05 10:33:21,398 - INFO - Processed DL009: 5470 records
+2025-08-05 10:33:21,633 - INFO - Processed DL011: 5938 records
+2025-08-05 10:33:21,844 - INFO - Processed DL022: 6247 records
+2025-08-05 10:33:22,072 - INFO - Processed DL024: 6373 records
+2025-08-05 10:33:22,319 - INFO - Processed DL029: 6406 records
+2025-08-05 10:33:22,320 - INFO - Creating unified dataset
+2025-08-05 10:33:23,522 - INFO - Unified dataset created: 30434 records from 5 stations
+2025-08-05 10:33:23,527 - INFO - Report saved to data\quality_reports\pipeline_report_20250805_103323.json
+2025-08-05 10:33:54,694 - INFO - Robust AEP Pipeline initialized
+2025-08-05 10:33:54,694 - INFO - ============================================================
+2025-08-05 10:33:54,694 - INFO - Starting Robust AEP 3.0 Pipeline
+2025-08-05 10:33:54,695 - INFO - ============================================================
+2025-08-05 10:33:54,696 - INFO - Processing state: Delhi
+2025-08-05 10:33:54,849 - INFO - Validation Delhi: 5/5 valid
+2025-08-05 10:33:55,143 - INFO - Processed DL009: 5470 records
+2025-08-05 10:33:55,353 - INFO - Processed DL011: 5938 records
+2025-08-05 10:33:55,595 - INFO - Processed DL022: 6247 records
+2025-08-05 10:33:55,859 - INFO - Processed DL024: 6373 records
+2025-08-05 10:33:56,121 - INFO - Processed DL029: 6406 records
+2025-08-05 10:33:56,122 - INFO - Processing state: Haryana
+2025-08-05 10:33:56,306 - INFO - Validation Haryana: 5/5 valid
+2025-08-05 10:33:56,536 - INFO - Processed HR001: 5291 records
+2025-08-05 10:33:56,726 - INFO - Processed HR002: 4943 records
+2025-08-05 10:33:56,955 - INFO - Processed HR003: 6231 records
+2025-08-05 10:33:57,212 - INFO - Processed HR004: 6126 records
+2025-08-05 10:33:57,395 - INFO - Processed HR009: 5817 records
+2025-08-05 10:33:57,396 - INFO - Processing state: Karnataka
+2025-08-05 10:33:57,604 - INFO - Validation Karnataka: 5/5 valid
+2025-08-05 10:33:57,809 - INFO - Processed KA001: 5669 records
+2025-08-05 10:33:57,980 - INFO - Processed KA002: 4482 records
+2025-08-05 10:33:58,192 - INFO - Processed KA007: 5564 records
+2025-08-05 10:33:58,406 - INFO - Processed KA015: 6053 records
+2025-08-05 10:33:58,642 - INFO - Processed KA018: 6209 records
+2025-08-05 10:33:58,643 - INFO - Processing state: Maharashtra
+2025-08-05 10:33:58,839 - INFO - Validation Maharashtra: 5/5 valid
+2025-08-05 10:33:59,076 - INFO - Processed MH004: 5836 records
+2025-08-05 10:33:59,275 - INFO - Processed MH007: 5372 records
+2025-08-05 10:33:59,469 - INFO - Processed MH012: 5264 records
+2025-08-05 10:33:59,698 - INFO - Processed MH026: 5546 records
+2025-08-05 10:33:59,902 - INFO - Processed MH033: 5784 records
+2025-08-05 10:33:59,903 - INFO - Creating unified dataset
+2025-08-05 10:34:03,441 - INFO - Unified dataset created: 114621 records from 20 stations
+2025-08-05 10:34:03,457 - INFO - Report saved to data\quality_reports\pipeline_report_20250805_103403.json

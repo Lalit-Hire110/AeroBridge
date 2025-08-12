@@ -1,0 +1,25 @@
+Problem Statement-3
+Overview
+Monitoring Air Pollution from Space using Satellite Observations, Ground-Based Measurements, Reanalysis Data, and AI/ML Techniques
+Air pollution is a major environmental concern in many urban centers. Regular, consistent monitoring of air pollutant concentrations remains a challenge. Satellite remote sensing enables observations over broad spatial areas, allowing indirect estimation of pollutant levels. This problem statement focuses on estimating surface-level particulate matter (PM) concentrations by leveraging satellite-derived data and AI/ML-based predictive modeling approaches.
+
+Objective:
+Estimate surface-level Particulate Matter (PM) concentration using Aerosol Optical Depth (AOD) measurements obtained from INSAT-3D/3DR/3DS satellite observations.
+Expected Outcomes:
+High-resolution spatial map depicting PM concentration across India, derived from AI/ML-based estimation pipelines.
+Dataset Required:
+AOD Data: satellite observations from MODIS, INSAT any other capable satalite.
+Ground-Based PM Data: Central Pollution Control Board (CPCB) station-level data.
+Atmospheric Reanalysis Data: Meteorological variables from sources like MERRA-2.
+Suggested Tools/Technologies:
+Programming tools such as Python or Matlab for data pre-processing and integration. AI/ML methods such as Random Forest for regression modeling and prediction.
+
+Expected Solution / Steps to be followed to achieve the objectives:
+Generate AOD spatial maps from INSAT or other satellite datasets.
+Build surface-level PM concentration data using ground-based sources like CPCB.
+Integrate atmospheric variables from reanalysis datasets (e.g., MERRA-2).
+Train an ML model (e.g., Random Forest) using the combined satellite, ground, and reanalysis data.
+Predict surface PM levels from AOD using the trained model.
+Validate the predictions with ground truth from CPCB measurements.
+Evaluation Parameters:
+Accuracy of the estimated PM values must be assessed by comparing them with trusted ground-based measurements from CPCB stations.

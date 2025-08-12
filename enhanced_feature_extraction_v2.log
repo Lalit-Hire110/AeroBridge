@@ -1,0 +1,251 @@
+2025-08-05 21:35:40,232 - INFO - Starting Enhanced INSAT Feature Extraction Pipeline v2...
+2025-08-05 21:35:40,237 - INFO - Found 20 station files to process
+2025-08-05 21:35:40,237 - INFO - Processing station Delhi_DL009 (Enhanced)
+2025-08-05 21:35:40,312 - INFO - Loaded 5511 CPCB records for Delhi_DL009
+2025-08-05 21:35:40,664 - INFO - Found 6810 total images for Delhi_DL009
+2025-08-05 21:35:40,669 - INFO - TIR1 images: 3405, WV images: 3405
+2025-08-05 21:36:45,278 - INFO - Station Delhi_DL009 processed:
+2025-08-05 21:36:45,279 - INFO -   Total CPCB rows: 5511
+2025-08-05 21:36:45,280 - INFO -   TIR1 coverage: 1590 (28.9%)
+2025-08-05 21:36:45,280 - INFO -   WV coverage: 1590 (28.9%)
+2025-08-05 21:36:45,281 - INFO -   Both bands: 1590 (28.9%)
+2025-08-05 21:36:45,281 - INFO -   Features extracted: TIR1=1590, WV=1590
+2025-08-05 21:36:45,289 - INFO - Processing station Delhi_DL011 (Enhanced)
+2025-08-05 21:36:45,337 - INFO - Loaded 6029 CPCB records for Delhi_DL011
+2025-08-05 21:36:45,982 - INFO - Found 6810 total images for Delhi_DL011
+2025-08-05 21:36:45,985 - INFO - TIR1 images: 3405, WV images: 3405
+2025-08-05 21:37:45,772 - INFO - Station Delhi_DL011 processed:
+2025-08-05 21:37:45,772 - INFO -   Total CPCB rows: 6029
+2025-08-05 21:37:45,772 - INFO -   TIR1 coverage: 1516 (25.1%)
+2025-08-05 21:37:45,773 - INFO -   WV coverage: 1516 (25.1%)
+2025-08-05 21:37:45,773 - INFO -   Both bands: 1516 (25.1%)
+2025-08-05 21:37:45,773 - INFO -   Features extracted: TIR1=1516, WV=1516
+2025-08-05 21:37:45,777 - INFO - Processing station Delhi_DL022 (Enhanced)
+2025-08-05 21:37:45,823 - INFO - Loaded 6350 CPCB records for Delhi_DL022
+2025-08-05 21:37:46,562 - INFO - Found 6810 total images for Delhi_DL022
+2025-08-05 21:37:46,573 - INFO - TIR1 images: 3405, WV images: 3405
+2025-08-05 21:38:46,655 - INFO - Station Delhi_DL022 processed:
+2025-08-05 21:38:46,657 - INFO -   Total CPCB rows: 6350
+2025-08-05 21:38:46,657 - INFO -   TIR1 coverage: 1533 (24.1%)
+2025-08-05 21:38:46,658 - INFO -   WV coverage: 1533 (24.1%)
+2025-08-05 21:38:46,658 - INFO -   Both bands: 1533 (24.1%)
+2025-08-05 21:38:46,658 - INFO -   Features extracted: TIR1=1533, WV=1533
+2025-08-05 21:38:46,669 - INFO - Processing station Delhi_DL024 (Enhanced)
+2025-08-05 21:38:46,741 - INFO - Loaded 6495 CPCB records for Delhi_DL024
+2025-08-05 21:38:47,600 - INFO - Found 6810 total images for Delhi_DL024
+2025-08-05 21:38:47,606 - INFO - TIR1 images: 3405, WV images: 3405
+2025-08-05 21:40:09,889 - INFO - Station Delhi_DL024 processed:
+2025-08-05 21:40:09,891 - INFO -   Total CPCB rows: 6495
+2025-08-05 21:40:09,892 - INFO -   TIR1 coverage: 1612 (24.8%)
+2025-08-05 21:40:09,892 - INFO -   WV coverage: 1612 (24.8%)
+2025-08-05 21:40:09,893 - INFO -   Both bands: 1612 (24.8%)
+2025-08-05 21:40:09,893 - INFO -   Features extracted: TIR1=1612, WV=1612
+2025-08-05 21:40:09,904 - INFO - Processing station Delhi_DL029 (Enhanced)
+2025-08-05 21:40:09,996 - INFO - Loaded 6476 CPCB records for Delhi_DL029
+2025-08-05 21:40:11,138 - INFO - Found 6810 total images for Delhi_DL029
+2025-08-05 21:40:11,157 - INFO - TIR1 images: 3405, WV images: 3405
+2025-08-05 21:41:38,847 - INFO - Station Delhi_DL029 processed:
+2025-08-05 21:41:38,848 - INFO -   Total CPCB rows: 6476
+2025-08-05 21:41:38,848 - INFO -   TIR1 coverage: 1607 (24.8%)
+2025-08-05 21:41:38,848 - INFO -   WV coverage: 1607 (24.8%)
+2025-08-05 21:41:38,849 - INFO -   Both bands: 1607 (24.8%)
+2025-08-05 21:41:38,849 - INFO -   Features extracted: TIR1=1607, WV=1607
+2025-08-05 21:41:39,031 - INFO - Saved 15716 features to cache
+2025-08-05 21:41:39,032 - INFO - Processing station Haryana_HR001 (Enhanced)
+2025-08-05 21:41:39,082 - INFO - Loaded 5353 CPCB records for Haryana_HR001
+2025-08-05 21:41:39,744 - INFO - Found 6810 total images for Haryana_HR001
+2025-08-05 21:41:39,748 - INFO - TIR1 images: 3405, WV images: 3405
+2025-08-05 21:42:34,230 - INFO - Station Haryana_HR001 processed:
+2025-08-05 21:42:34,231 - INFO -   Total CPCB rows: 5353
+2025-08-05 21:42:34,231 - INFO -   TIR1 coverage: 1455 (27.2%)
+2025-08-05 21:42:34,231 - INFO -   WV coverage: 1455 (27.2%)
+2025-08-05 21:42:34,232 - INFO -   Both bands: 1455 (27.2%)
+2025-08-05 21:42:34,232 - INFO -   Features extracted: TIR1=1455, WV=1455
+2025-08-05 21:42:34,235 - INFO - Processing station Haryana_HR002 (Enhanced)
+2025-08-05 21:42:34,280 - INFO - Loaded 4976 CPCB records for Haryana_HR002
+2025-08-05 21:42:34,902 - INFO - Found 6810 total images for Haryana_HR002
+2025-08-05 21:42:34,905 - INFO - TIR1 images: 3405, WV images: 3405
+2025-08-05 21:43:17,783 - INFO - Station Haryana_HR002 processed:
+2025-08-05 21:43:17,784 - INFO -   Total CPCB rows: 4976
+2025-08-05 21:43:17,784 - INFO -   TIR1 coverage: 1152 (23.2%)
+2025-08-05 21:43:17,784 - INFO -   WV coverage: 1152 (23.2%)
+2025-08-05 21:43:17,784 - INFO -   Both bands: 1152 (23.2%)
+2025-08-05 21:43:17,785 - INFO -   Features extracted: TIR1=1152, WV=1152
+2025-08-05 21:43:17,787 - INFO - Processing station Haryana_HR003 (Enhanced)
+2025-08-05 21:43:17,834 - INFO - Loaded 6252 CPCB records for Haryana_HR003
+2025-08-05 21:43:18,738 - INFO - Found 6810 total images for Haryana_HR003
+2025-08-05 21:43:18,742 - INFO - TIR1 images: 3405, WV images: 3405
+2025-08-05 21:44:16,461 - INFO - Station Haryana_HR003 processed:
+2025-08-05 21:44:16,461 - INFO -   Total CPCB rows: 6252
+2025-08-05 21:44:16,461 - INFO -   TIR1 coverage: 1537 (24.6%)
+2025-08-05 21:44:16,462 - INFO -   WV coverage: 1537 (24.6%)
+2025-08-05 21:44:16,462 - INFO -   Both bands: 1537 (24.6%)
+2025-08-05 21:44:16,462 - INFO -   Features extracted: TIR1=1537, WV=1537
+2025-08-05 21:44:16,465 - INFO - Processing station Haryana_HR004 (Enhanced)
+2025-08-05 21:44:16,514 - INFO - Loaded 6166 CPCB records for Haryana_HR004
+2025-08-05 21:44:17,163 - INFO - Found 6810 total images for Haryana_HR004
+2025-08-05 21:44:17,166 - INFO - TIR1 images: 3405, WV images: 3405
+2025-08-05 21:45:12,923 - INFO - Station Haryana_HR004 processed:
+2025-08-05 21:45:12,924 - INFO -   Total CPCB rows: 6166
+2025-08-05 21:45:12,924 - INFO -   TIR1 coverage: 1470 (23.8%)
+2025-08-05 21:45:12,924 - INFO -   WV coverage: 1470 (23.8%)
+2025-08-05 21:45:12,925 - INFO -   Both bands: 1470 (23.8%)
+2025-08-05 21:45:12,925 - INFO -   Features extracted: TIR1=1470, WV=1470
+2025-08-05 21:45:12,929 - INFO - Processing station Haryana_HR009 (Enhanced)
+2025-08-05 21:45:12,975 - INFO - Loaded 5880 CPCB records for Haryana_HR009
+2025-08-05 21:45:13,552 - INFO - Found 6810 total images for Haryana_HR009
+2025-08-05 21:45:13,557 - INFO - TIR1 images: 3405, WV images: 3405
+2025-08-05 21:46:08,392 - INFO - Station Haryana_HR009 processed:
+2025-08-05 21:46:08,393 - INFO -   Total CPCB rows: 5880
+2025-08-05 21:46:08,393 - INFO -   TIR1 coverage: 1452 (24.7%)
+2025-08-05 21:46:08,393 - INFO -   WV coverage: 1452 (24.7%)
+2025-08-05 21:46:08,393 - INFO -   Both bands: 1452 (24.7%)
+2025-08-05 21:46:08,393 - INFO -   Features extracted: TIR1=1452, WV=1452
+2025-08-05 21:46:08,654 - INFO - Saved 29848 features to cache
+2025-08-05 21:46:08,655 - INFO - Processing station Karnataka_KA001 (Enhanced)
+2025-08-05 21:46:08,704 - INFO - Loaded 5710 CPCB records for Karnataka_KA001
+2025-08-05 21:46:09,284 - INFO - Found 6810 total images for Karnataka_KA001
+2025-08-05 21:46:09,289 - INFO - TIR1 images: 3405, WV images: 3405
+2025-08-05 21:46:54,340 - INFO - Station Karnataka_KA001 processed:
+2025-08-05 21:46:54,341 - INFO -   Total CPCB rows: 5710
+2025-08-05 21:46:54,341 - INFO -   TIR1 coverage: 1231 (21.6%)
+2025-08-05 21:46:54,341 - INFO -   WV coverage: 1231 (21.6%)
+2025-08-05 21:46:54,341 - INFO -   Both bands: 1231 (21.6%)
+2025-08-05 21:46:54,341 - INFO -   Features extracted: TIR1=1231, WV=1231
+2025-08-05 21:46:54,345 - INFO - Processing station Karnataka_KA002 (Enhanced)
+2025-08-05 21:46:54,383 - INFO - Loaded 4553 CPCB records for Karnataka_KA002
+2025-08-05 21:46:54,970 - INFO - Found 6810 total images for Karnataka_KA002
+2025-08-05 21:46:54,973 - INFO - TIR1 images: 3405, WV images: 3405
+2025-08-05 21:47:20,523 - INFO - Station Karnataka_KA002 processed:
+2025-08-05 21:47:20,523 - INFO -   Total CPCB rows: 4553
+2025-08-05 21:47:20,523 - INFO -   TIR1 coverage: 697 (15.3%)
+2025-08-05 21:47:20,523 - INFO -   WV coverage: 697 (15.3%)
+2025-08-05 21:47:20,524 - INFO -   Both bands: 697 (15.3%)
+2025-08-05 21:47:20,524 - INFO -   Features extracted: TIR1=697, WV=697
+2025-08-05 21:47:20,525 - INFO - Processing station Karnataka_KA007 (Enhanced)
+2025-08-05 21:47:20,571 - INFO - Loaded 5570 CPCB records for Karnataka_KA007
+2025-08-05 21:47:21,261 - INFO - Found 6810 total images for Karnataka_KA007
+2025-08-05 21:47:21,265 - INFO - TIR1 images: 3405, WV images: 3405
+2025-08-05 21:48:10,507 - INFO - Station Karnataka_KA007 processed:
+2025-08-05 21:48:10,507 - INFO -   Total CPCB rows: 5570
+2025-08-05 21:48:10,508 - INFO -   TIR1 coverage: 1342 (24.1%)
+2025-08-05 21:48:10,508 - INFO -   WV coverage: 1342 (24.1%)
+2025-08-05 21:48:10,508 - INFO -   Both bands: 1342 (24.1%)
+2025-08-05 21:48:10,508 - INFO -   Features extracted: TIR1=1342, WV=1342
+2025-08-05 21:48:10,512 - INFO - Processing station Karnataka_KA015 (Enhanced)
+2025-08-05 21:48:10,558 - INFO - Loaded 6059 CPCB records for Karnataka_KA015
+2025-08-05 21:48:11,172 - INFO - Found 6810 total images for Karnataka_KA015
+2025-08-05 21:48:11,176 - INFO - TIR1 images: 3405, WV images: 3405
+2025-08-05 21:49:08,155 - INFO - Station Karnataka_KA015 processed:
+2025-08-05 21:49:08,155 - INFO -   Total CPCB rows: 6059
+2025-08-05 21:49:08,156 - INFO -   TIR1 coverage: 1545 (25.5%)
+2025-08-05 21:49:08,156 - INFO -   WV coverage: 1545 (25.5%)
+2025-08-05 21:49:08,156 - INFO -   Both bands: 1545 (25.5%)
+2025-08-05 21:49:08,156 - INFO -   Features extracted: TIR1=1545, WV=1545
+2025-08-05 21:49:08,159 - INFO - Processing station Karnataka_KA018 (Enhanced)
+2025-08-05 21:49:08,211 - INFO - Loaded 6221 CPCB records for Karnataka_KA018
+2025-08-05 21:49:08,791 - INFO - Found 6810 total images for Karnataka_KA018
+2025-08-05 21:49:08,795 - INFO - TIR1 images: 3405, WV images: 3405
+2025-08-05 21:50:03,706 - INFO - Station Karnataka_KA018 processed:
+2025-08-05 21:50:03,706 - INFO -   Total CPCB rows: 6221
+2025-08-05 21:50:03,706 - INFO -   TIR1 coverage: 1485 (23.9%)
+2025-08-05 21:50:03,707 - INFO -   WV coverage: 1485 (23.9%)
+2025-08-05 21:50:03,707 - INFO -   Both bands: 1485 (23.9%)
+2025-08-05 21:50:03,707 - INFO -   Features extracted: TIR1=1485, WV=1485
+2025-08-05 21:50:04,114 - INFO - Saved 42448 features to cache
+2025-08-05 21:50:04,114 - INFO - Processing station Maharashtra_MH004 (Enhanced)
+2025-08-05 21:50:04,167 - INFO - Loaded 5984 CPCB records for Maharashtra_MH004
+2025-08-05 21:50:04,778 - INFO - Found 6810 total images for Maharashtra_MH004
+2025-08-05 21:50:04,781 - INFO - TIR1 images: 3405, WV images: 3405
+2025-08-05 21:51:02,793 - INFO - Station Maharashtra_MH004 processed:
+2025-08-05 21:51:02,794 - INFO -   Total CPCB rows: 5984
+2025-08-05 21:51:02,794 - INFO -   TIR1 coverage: 1547 (25.9%)
+2025-08-05 21:51:02,794 - INFO -   WV coverage: 1547 (25.9%)
+2025-08-05 21:51:02,794 - INFO -   Both bands: 1547 (25.9%)
+2025-08-05 21:51:02,794 - INFO -   Features extracted: TIR1=1547, WV=1547
+2025-08-05 21:51:02,798 - INFO - Processing station Maharashtra_MH007 (Enhanced)
+2025-08-05 21:51:02,848 - INFO - Loaded 5391 CPCB records for Maharashtra_MH007
+2025-08-05 21:51:03,457 - INFO - Found 6810 total images for Maharashtra_MH007
+2025-08-05 21:51:03,461 - INFO - TIR1 images: 3405, WV images: 3405
+2025-08-05 21:51:37,754 - INFO - Station Maharashtra_MH007 processed:
+2025-08-05 21:51:37,755 - INFO -   Total CPCB rows: 5391
+2025-08-05 21:51:37,755 - INFO -   TIR1 coverage: 1091 (20.2%)
+2025-08-05 21:51:37,755 - INFO -   WV coverage: 1091 (20.2%)
+2025-08-05 21:51:37,755 - INFO -   Both bands: 1091 (20.2%)
+2025-08-05 21:51:37,755 - INFO -   Features extracted: TIR1=1091, WV=1091
+2025-08-05 21:51:37,757 - INFO - Processing station Maharashtra_MH012 (Enhanced)
+2025-08-05 21:51:37,801 - INFO - Loaded 5289 CPCB records for Maharashtra_MH012
+2025-08-05 21:51:38,570 - INFO - Found 6810 total images for Maharashtra_MH012
+2025-08-05 21:51:38,576 - INFO - TIR1 images: 3405, WV images: 3405
+2025-08-05 21:52:30,667 - INFO - Station Maharashtra_MH012 processed:
+2025-08-05 21:52:30,668 - INFO -   Total CPCB rows: 5289
+2025-08-05 21:52:30,669 - INFO -   TIR1 coverage: 1282 (24.2%)
+2025-08-05 21:52:30,669 - INFO -   WV coverage: 1282 (24.2%)
+2025-08-05 21:52:30,669 - INFO -   Both bands: 1282 (24.2%)
+2025-08-05 21:52:30,669 - INFO -   Features extracted: TIR1=1282, WV=1282
+2025-08-05 21:52:30,677 - INFO - Processing station Maharashtra_MH026 (Enhanced)
+2025-08-05 21:52:30,754 - INFO - Loaded 5594 CPCB records for Maharashtra_MH026
+2025-08-05 21:52:31,423 - INFO - Found 6810 total images for Maharashtra_MH026
+2025-08-05 21:52:31,428 - INFO - TIR1 images: 3405, WV images: 3405
+2025-08-05 21:53:25,838 - INFO - Station Maharashtra_MH026 processed:
+2025-08-05 21:53:25,839 - INFO -   Total CPCB rows: 5594
+2025-08-05 21:53:25,839 - INFO -   TIR1 coverage: 1443 (25.8%)
+2025-08-05 21:53:25,839 - INFO -   WV coverage: 1443 (25.8%)
+2025-08-05 21:53:25,840 - INFO -   Both bands: 1443 (25.8%)
+2025-08-05 21:53:25,840 - INFO -   Features extracted: TIR1=1443, WV=1443
+2025-08-05 21:53:25,843 - INFO - Processing station Maharashtra_MH033 (Enhanced)
+2025-08-05 21:53:25,895 - INFO - Loaded 5801 CPCB records for Maharashtra_MH033
+2025-08-05 21:53:26,549 - INFO - Found 6810 total images for Maharashtra_MH033
+2025-08-05 21:53:26,553 - INFO - TIR1 images: 3405, WV images: 3405
+2025-08-05 21:54:22,552 - INFO - Station Maharashtra_MH033 processed:
+2025-08-05 21:54:22,553 - INFO -   Total CPCB rows: 5801
+2025-08-05 21:54:22,553 - INFO -   TIR1 coverage: 1491 (25.7%)
+2025-08-05 21:54:22,554 - INFO -   WV coverage: 1491 (25.7%)
+2025-08-05 21:54:22,554 - INFO -   Both bands: 1491 (25.7%)
+2025-08-05 21:54:22,554 - INFO -   Features extracted: TIR1=1491, WV=1491
+2025-08-05 21:54:23,479 - INFO - Saved 56156 features to cache
+2025-08-05 21:54:23,899 - INFO - Saved 56156 features to cache
+2025-08-05 21:54:23,899 - INFO - Successfully processed 20/20 stations
+2025-08-05 21:54:23,903 - INFO - Creating unified enhanced dataset v2...
+2025-08-05 21:54:23,925 - INFO - Found 20 enhanced station files
+2025-08-05 21:54:23,990 - INFO - Loaded 5511 rows from Delhi_DL009_enhanced_v2.csv
+2025-08-05 21:54:24,056 - INFO - Loaded 6029 rows from Delhi_DL011_enhanced_v2.csv
+2025-08-05 21:54:24,125 - INFO - Loaded 6350 rows from Delhi_DL022_enhanced_v2.csv
+2025-08-05 21:54:24,193 - INFO - Loaded 6495 rows from Delhi_DL024_enhanced_v2.csv
+2025-08-05 21:54:24,253 - INFO - Loaded 6476 rows from Delhi_DL029_enhanced_v2.csv
+2025-08-05 21:54:24,309 - INFO - Loaded 5353 rows from Haryana_HR001_enhanced_v2.csv
+2025-08-05 21:54:24,367 - INFO - Loaded 4976 rows from Haryana_HR002_enhanced_v2.csv
+2025-08-05 21:54:24,424 - INFO - Loaded 6252 rows from Haryana_HR003_enhanced_v2.csv
+2025-08-05 21:54:24,484 - INFO - Loaded 6166 rows from Haryana_HR004_enhanced_v2.csv
+2025-08-05 21:54:24,552 - INFO - Loaded 5880 rows from Haryana_HR009_enhanced_v2.csv
+2025-08-05 21:54:24,608 - INFO - Loaded 5710 rows from Karnataka_KA001_enhanced_v2.csv
+2025-08-05 21:54:24,653 - INFO - Loaded 4553 rows from Karnataka_KA002_enhanced_v2.csv
+2025-08-05 21:54:24,711 - INFO - Loaded 5570 rows from Karnataka_KA007_enhanced_v2.csv
+2025-08-05 21:54:24,771 - INFO - Loaded 6059 rows from Karnataka_KA015_enhanced_v2.csv
+2025-08-05 21:54:24,836 - INFO - Loaded 6221 rows from Karnataka_KA018_enhanced_v2.csv
+2025-08-05 21:54:24,897 - INFO - Loaded 5984 rows from Maharashtra_MH004_enhanced_v2.csv
+2025-08-05 21:54:24,957 - INFO - Loaded 5391 rows from Maharashtra_MH007_enhanced_v2.csv
+2025-08-05 21:54:25,001 - INFO - Loaded 5289 rows from Maharashtra_MH012_enhanced_v2.csv
+2025-08-05 21:54:25,045 - INFO - Loaded 5594 rows from Maharashtra_MH026_enhanced_v2.csv
+2025-08-05 21:54:25,093 - INFO - Loaded 5801 rows from Maharashtra_MH033_enhanced_v2.csv
+2025-08-05 21:54:30,836 - INFO - 
+=== UNIFIED DATASET V2 STATISTICS ===
+2025-08-05 21:54:30,837 - INFO - Total CPCB rows: 115660
+2025-08-05 21:54:30,850 - INFO - Date range: 2021-01-01 02:30:00+00:00 to 2022-12-31 10:30:00+00:00
+2025-08-05 21:54:30,859 - INFO - States: ['Delhi', 'Haryana', 'Karnataka', 'Maharashtra']
+2025-08-05 21:54:30,865 - INFO - Stations: 20
+2025-08-05 21:54:30,865 - INFO - 
+Image Feature Coverage:
+2025-08-05 21:54:30,865 - INFO -   TIR1 only: 28078 (24.3%)
+2025-08-05 21:54:30,865 - INFO -   WV only: 28078 (24.3%)
+2025-08-05 21:54:30,866 - INFO -   Both bands: 28078 (24.3%)
+2025-08-05 21:54:30,867 - INFO -   Either band: 28078 (24.3%)
+2025-08-05 21:54:30,867 - INFO -   No images: 87582 (75.7%)
+2025-08-05 21:54:30,867 - INFO - 
+Feature Completeness:
+2025-08-05 21:54:30,868 - INFO -   TIR1 features: 28078 (24.3%)
+2025-08-05 21:54:30,869 - INFO -   WV features: 28078 (24.3%)
+2025-08-05 21:54:30,870 - INFO - 
+Dataset saved to: c:\Users\Lalit Hire\OneDrive\Desktop\APE_07\data\unified_dataset_enhanced_v2.csv
+2025-08-05 21:54:30,871 - INFO - File size: 37.5 MB
+2025-08-05 21:54:30,888 - INFO - Enhanced pipeline v2 completed successfully!
